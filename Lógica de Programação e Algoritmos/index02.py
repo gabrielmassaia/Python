@@ -20,3 +20,16 @@ print(f"O numero 73 cabe {quant:.2f} dentro de 403")
 # d) A sobra quando 403 é divido por 73
 quant = (403 % 73)
 print(f"A sobra quando 403 é divido por 73 é de: {quant:.2f}")
+
+# e) 2 elevado a décima potência
+quant = (2 ** 10)
+print("O resultado de 2 elevado a décima pontência é de: ", quant)
+
+# f) O valor absoluto da diferença entre 54 e 57
+quant = (57 - 54)
+print("O valor absoluto da diferença entre 54 e 57 é de: ", quant)
+
+# g) O menor valor entre 34, 29 e 31
+quant = min(34,29,31)
+print(quant)
+
